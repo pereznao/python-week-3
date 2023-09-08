@@ -208,7 +208,7 @@ print(
 # "You have earned (new_points) points! In total, you have accumulated (total_points) points"
 # This time, the amount of points accumulated (total_points) will be equal to the previous_points plus the new_points.
 # Remember that the precision of your answer (spaces, spelling and punctuation) is very important to arrive at the correct result.
-#####
+###########
 # previous_points = 875
 # new_points = 350
 
